@@ -579,10 +579,164 @@ var data = [
         DEF : "600",
         TYPE : "N"
     },
-]
+    {
+        Code : "BOXSA-0050",
+        Name : "United Resistance",
+        Picture : "img/BOXSA/BOXSA-0050.jpg",
+        Effect : 'ไม่มีเอฟเฟค',
+        Level : "3",
+        Type : "มอนเตอร์ปกติ",
+        ATK : "1000",
+        DEF : "400",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0051",
+        Name : "X-Saber Axel",
+        Picture : "img/BOXSA/BOXSA-0051.jpg",
+        Effect : 'เมื่อเราควบคุมการ์ดใบนี้แบบหงายหน้าอยู่,แล้วมีมอนเตอร์ติดชื่อ "Saber" ถูกทำลายจากการต่อสู้แล้วถูกทำลายลงสุสาน,เราสามารถจั่วการ์ดได้ 1 ใบ',
+        Level : "3",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "400",
+        DEF : "100",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0052",
+        Name : "XX-Saber Garsem",
+        Picture : "img/BOXSA/BOXSA-0052.jpg",
+        Effect : 'เมื่อการ์ดใบนี้อยู่บนสนามแล้วถูกทำลายลงสุสานโดยผลของเอฟเฟคการ์ด,เราสามารถเพิ่ม X-Saber 1ใบที่เป็นมอนเตอร์จากในเด็คขึ้นมือได้. การ์ดใบนี้จะได้รับพลังโจมตีเพิ่ม 200 * ด้วย' +
+        'จำนวนมอนเตอร์ X-Saber ทั้งหมดที่เราควบคุมอยู่',
+        Level : "4",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1400",
+        DEF : "400",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0053",
+        Name : "Genex Furnace",
+        Picture : "img/BOXSA/BOXSA-0053.jpg",
+        Effect : 'หากเราควบคุม Genex Controller เราสามารถอัญเชิญการ์ดใบนี้แบบไม่ต้องสังเวยได้เลย',
+        Level : "5",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "2000",
+        DEF : "1300",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0054",
+        Name : "Genex Gaia",
+        Picture : "img/BOXSA/BOXSA-0054.jpg",
+        Effect : 'หากการ์ดใบนี้ถูกทำลาย,เราสามารถทำลาย Genex Controller แทนการ์ดใบนี้ได้',
+        Level : "3",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1000",
+        DEF : "1900",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0055",
+        Name : "Genex Doctor",
+        Picture : "img/BOXSA/BOXSA-0055.jpg",
+        Effect : 'เราสามารถสังเวย Genex Controller 1 ใบเพื่อทำลายการ์ดบนสนามได้ 1 ใบ',
+        Level : "3",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1500",
+        DEF : "1000",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0056",
+        Name : "Genex Ally Bellflame",
+        Picture : "img/BOXSA/BOXSA-0056.jpg",
+        Effect : 'ทุกครั้งที่มอนเตอร์ของเราถูกส่งลงสุสาน,วาง Genex Counter 1 เม็ดลงบนการ์ดใบนี้. ทุกครั้งที่การ์ดของฝ่ายตรงข้ามถูกนำออกจากเกม,วาง Genex Counters ลงบนการ์ดใบนี้ 2 เม็ด' +
+        'การ์ดใบนี้จะได้รับพลังโจมตีเพิ่ม 100 คูณด้วย Genex Counter ที่อยู่บนสนาม. หากการ์ดใบนี้ถูกทำลายจากการต่อสู้แล้วส่งลงสุสาน:ทำดาเมธกับฝ่ายตรงข้ามตามจำนวน Genex Counter'+
+        'ที่อยู่บนการ์ดใบนี้ * 300',
+        Level : "4",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1700",
+        DEF : "1000",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0057",
+        Name : "Dark Scorpion Burglars",
+        Picture : "img/BOXSA/BOXSA-0057.jpg",
+        Effect : 'เมื่อการ์ดใบนี้ทำความเสียหายจากการต่อสู้ใส่ฝ่ายตรงข้าม : อีกฝ่ายจะต้องส่งการ์ดเวทมนตร์ 1 ใบจากเด็คของเขาลงสุสาน',
+        Level : "4",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1000",
+        DEF : "1000",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0058",
+        Name : "Dark Scorpion - Cliff the Trap Remover",
+        Picture : "img/BOXSA/BOXSA-0058.jpg",
+        Effect : 'เมื่อการ์ดใบนี้ทำความเสียหายจากการต่อสู้ให้อีกฝ่ายได้,เราสามารถสั่งใช้งานเอฟเฟคนี้ได้ 1 เอฟเฟค <br>' + 
+        '●เลือกการ์ดเวทมนตร์กับดักบนสนาม 1 ใบทำลายทิ้ง <br>' + 
+        '●ส่งการ์ดใบบนสุดของเด็คลงสุสาน 2 ใบ',
+        Level : "3",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1200",
+        DEF : "1000",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0058",
+        Name : "Dark Scorpion - Chick the Yellow",
+        Picture : "img/BOXSA/BOXSA-0058.jpg",
+        Effect : 'เมื่อการ์ดใบนี้ทำดาเมธกับฝ่ายตรงข้ามจากการต่อสู้ได้ , เราสามารถเลือกใช้เอฟเฟคได้ 1 เอฟเฟค <br>' + 
+        '●เลือกการ์ด 1 ใบบนสนาม นำการ์ดใบนั้นกลับขึ้นมือ <br>' + 
+        '●มองการ์ดใบบนสุดของเด็คอีกฝ่ายจากนั้นให้นำไปไว้บนสุดของเด็คเหมือนเดิมหรือใต้สุดของเด็คก็ได้',
+        Level : "3",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1000",
+        DEF : "1000",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0059",
+        Name : "Dark Scorpion - Gorg the Strong",
+        Picture : "img/BOXSA/BOXSA-0059.jpg",
+        Effect : 'เมื่อการ์ดใบนี้ทำดาเมธกับฝ่ายตรงข้ามจากการต่อสู้ได้ , เราสามารถเลือกใช้เอฟเฟคได้ 1 เอฟเฟค <br>' + 
+        '●เลือกการ์ดมอนเตอร์ 1 ใบที่อีกฝ่ายควบคุมอยู่นำการ์ดใบนั้นไปไว้บนสุดของเด็ค <br>' + 
+        '●ส่งการ์ดใบบนสุดของเด็คอีกฝ่ายลงสุสาน 1 ใบ',
+        Level : "5",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1800",
+        DEF : "1500",
+        TYPE : "N"
+    },
+    {
+        Code : "BOXSA-0059",
+        Name : "Dark Scorpion - Gorg the Strong",
+        Picture : "img/BOXSA/BOXSA-0059.jpg",
+        Effect : 'เมื่อการ์ดใบนี้ทำดาเมธกับฝ่ายตรงข้ามจากการต่อสู้ได้ , เราสามารถเลือกใช้เอฟเฟคได้ 1 เอฟเฟค <br>' + 
+        '●เลือกการ์ดมอนเตอร์ 1 ใบที่อีกฝ่ายควบคุมอยู่นำการ์ดใบนั้นไปไว้บนสุดของเด็ค <br>' + 
+        '●ส่งการ์ดใบบนสุดของเด็คอีกฝ่ายลงสุสาน 1 ใบ',
+        Level : "5",
+        Type : "มอนเตอร์เอฟเฟค",
+        ATK : "1800",
+        DEF : "1500",
+        TYPE : "N"
+    },
+];
+var url_string = window.location.href; 
+var url = new URL(url_string);
+var dataintable = [];
+var check = url.searchParams.get("box");
+console.log(check);  
+if(check == "Box31"){
+    dataintable = data;
+}
+else{
+    dataintable = '';
+}
 var c = "";
 var b = '<thead><tr><th style="width:80px">รหัสการ์ด</th><th>ชื่อการ์ด</th><th>รูปการ์ด</th><th>เอฟเฟคการ์ด</th><th>ดาว</th><th>เงื่อนไขพิเศษ</th><th>พลังโจมตี</th><th>พลังป้องกัน</th></tr></thead>';
-        data.forEach(value => {
+dataintable.forEach(value => {
             c += '<tr>'+
             '<td>' + value.Code + '</td>'+
             '<td>' + value.Name + '</td>'+
