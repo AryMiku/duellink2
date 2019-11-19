@@ -1,0 +1,74 @@
+[
+    {
+        "ID" : 14785765,
+        "Name" : "Blackwing - Zephyros the Elite",
+        "Level" : 4,
+        "TypeCard" : "Effect Monster",
+        "ATK" : 1600,
+        "DEF" : 1000,
+        "Attribute" : "DARK",
+        "Type" : "Winged Beast",
+        "Effect" : "เมื่อการ์ดใบนี้อยู่ในสุสาน : เราสามารถนำการ์ดหงายหน้า 1 ใบที่เราควบคุมอยู่ขึ้นมือ; อัญเชิญการ์ดใบนี้จากสุสาน หากเราทำสำเร็จต้องรับความเสียหาย 400 เราสามารถใช้เอฟเฟค 'Blackwing - Zephyros the Elite' ได้ครั้งเดียวต่อ 1 ดูเอล",
+        "Picture" : "https://ygoprodeck.com/pics/14785765.jpg"
+    },
+    {
+        "ID" : 50321796,
+        "Name" : "Brionac, Dragon of the Ice Barrier",
+        "Level" : 6,
+        "TypeCard" : "Synchro Monster",
+        "ATK" : 2300,
+        "DEF" : 1400,
+        "Attribute" : "WATER",
+        "Type" : "Sea Serpent",
+        "Effect" : "จูนเนอร์ 1 ตัว + มอนเตอร์ไม่ใช่จูนเนอร์ 1 ตัว เราสามารถทิ้งการ์ดบนมือกี่ใบก็ได้ลงสุสาน,จากนั้นเลือกจำนวนการ์ดบนสนามฝ่ายตรงข้ามเท่ากับที่เราทิ้งลงไป,นำการ์ดที่เลือกนั้นกลับขึ้นมือ เราสามารถใช้เอฟเฟค 'Brionac, Dragon of the Ice Barrier' ได้เทิร์นละครั้ง",
+        "Picture" : "https://ygoprodeck.com/pics/50321796.jpg"
+    },
+    {
+        "ID" : 42216237,
+        "Name" : "Angel of Zera",
+        "Level" : 8,
+        "TypeCard" : "Synchro Monster",
+        "ATK" : 2800,
+        "DEF" : 2300,
+        "Attribute" : "LIGHT",
+        "Type" : "Fairy",
+        "Effect" : "จูนเนอร์ 1 ใบ + มอนเตอร์ไม่ใช่จูนเนอร์ 1 ใบขึ้นไป การ์ดใบนี้จะมีพลังโจมตีเพิ่ม 100 ตามจำนวนการ์ดที่ถูกรีมูฟของฝ่ายตรงข้าม ในช่วง Standby Phase เทิร์นต่อไปหลังการ์ดใบนี้ถูกรีมูฟ อัญเชิญการ์ดใบนี้ที่ออกจากเกมกลับมา สามารถใช้เอฟเฟคของ 'Angel of Zera' ได้เทิร์นละครั้ง",
+        "Picture" : "https://ygoprodeck.com/pics/42216237.jpg"
+    },
+    {
+        "ID" : 12307878,
+        "Name" : "Invoked Purgatrio",
+        "Level" : 7,
+        "TypeCard" : "Fusion Monster",
+        "ATK" : 2300,
+        "DEF" : 2000,
+        "Attribute" : "FIRE",
+        "Type" : "Fiend",
+        "Effect" : "'Aleister the Invoker' + มอนเตอร์ธาตุไฟ 1 ตัว การ์ดใบนี้จะได้พลังโจมตีเพิ่ม 200 ต่อการ์ดที่อีกฝ่ายควบคุมบนสนาม การ์ดใบนี้สามารถโจมตีใส่มอนเตอร์ฝ่ายตรงข้ามได้ทุกตัวต่อหนึ่งครั้ง, ถ้าการ์ดใบนี้โจมตีมอนเตอร์ตั้งป้องกันจะคิดความเสียหายตามความต่างของพลังป้องกันนั้นด้วย",
+        "Picture" : "https://ygoprodeck.com/pics/12307878.jpg"
+    },
+    {
+        "ID" : 2009101,
+        "Name" : "Blackwing - Gale the Whirlwind",
+        "Level" : 3,
+        "TypeCard" : "Tuner Monster",
+        "ATK" : 1300,
+        "DEF" : 400,
+        "Attribute" : "DARK",
+        "Type" : "Winged Beast",
+        "Effect" : "เมื่อเราควบคุม Blackwing ตัวตื่นที่ไม่ใช่ Blackwing - Gale the Whirlwind เราสามารถอัญเชิญการ์ดใบนี้แบบพิเศษจากบนมือได้ เทิร์นละครั้ง เราสามารถเลือกมอนเตอร์หงายหน้าของฝ่ายตรงข้าม 1 ตัวพลังโจมตีและป้องกันจะเหลือเพียงครึ่งเดียว",
+        "Picture" : "https://ygoprodeck.com/pics/2009101.jpg"
+    },
+    {
+        "ID" : 81470373,
+        "Name" : "Blackwing - Simoon the Poison Wind",
+        "Level" : 6,
+        "TypeCard" : "Effect Monster",
+        "ATK" : 1600,
+        "DEF" : 200,
+        "Attribute" : "DARK",
+        "Type" : "Winged Beast",
+        "Effect" : "เมื่อเราไม่ได้ควบคุมมอนเตอร์อยู่ เราสามารถรีมูฟมอนเตอร์ Blackwing ตัวอื่นจากบนมือ 1 ใบ ในเทิร์นนี้เราจะไม่สามารถอัญเชิญมอนเตอร์แบบพิเศษใน Extra Deck ได้ยกเว้นมอนเตอร์ธาตุมืด จากนั้นนำการ์ด Black Whirlwind จากในเด็คของเรามาตั้งหงายหน้าในโซนเวทย์กับดักของเรา จากนั้นหลังจากเอฟเฟคนี้ทำงานสำเร็จ เราสามารถอัญเชิญการ์ดใบนี้โดยไม่ต้องบูชายัญหรือส่งการ์ดใบนี้ลงสุสานในช่วง End Phase ในช่วง End Phase ส่งการ์ด Black Whirlwind ที่เรียกมาด้วยเอฟเฟคของการ์ดใบนี้ลงสุสานจากนั้นรับความเสียหาย 1000 สามารถใช้เอฟเฟคของ Blackwing - Simoon the Poison Wind ได้เทิร์นละครั้ง",
+        "Picture" : "https://ygoprodeck.com/pics/81470373.jpg"
+    }
+]
